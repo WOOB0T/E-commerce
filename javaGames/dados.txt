@@ -1,0 +1,14 @@
+✔ O comércio acrescentou em seu catalogo o produto Hotel Transilvânia: Johnny encontra o caminho para casa de categoria Jogos. -A quantidade de estoque desse produto atualmente é 30 e o valor em caixa atual do comércio é de R$49100.0
+💲 O comércio vendeu 7 unidades de Hotel Transilvânia: Johnny encontra o caminho para casa de categoria Jogos.|A quantidade de estoque desse produto atualmente é: 23 e o valor em caixa atual do comércio é de R$49800.0
+✔ O comércio acrescentou em seu catalogo o produto Airdots My Melody de categoria Acessórios. -A quantidade de estoque desse produto atualmente é 50 e o valor em caixa atual do comércio é de R$47800.0
+💲 O comércio vendeu 10 unidades de Airdots My Melody de categoria Acessórios.|A quantidade de estoque desse produto atualmente é: 40 e o valor em caixa atual do comércio é de R$48600.0
+✔ O comércio acrescentou em seu catalogo o produto Notebook Dell Gamer de categoria Informática. -A quantidade de estoque desse produto atualmente é 0 e o valor em caixa atual do comércio é de R$48600.0
+💲 O comércio comprou a quantidade de 15 de estoque para o produto Notebook Dell Gamer que, anteriormente, tinha 0 unidades em seu estoque. |O valor em caixa atual do comércio é de R$11100.0
+✔ O comércio acrescentou em seu catalogo o produto Plants Vs Zombies de categoria Jogos. -A quantidade de estoque desse produto atualmente é 15 e o valor em caixa atual do comércio é de R$9975.0
+ ❌ O comércio tentou comprar a quantidade de 5 de unidades para o produto Notebook Dell Gamer, mas não conseguiu por insuficiencia de saldo no caixa. - O valor em caixa atual do comércio é de R$9975.0
+💲 O comércio comprou a quantidade de 17 de estoque para o produto Notebook Dell Gamer que, anteriormente, tinha 15 unidades em seu estoque. |O valor em caixa atual do comércio é de R$4975.0
+💲 O comércio vendeu 5 unidades de Notebook Dell Gamer de categoria Informática.|A quantidade de estoque desse produto atualmente é: 12 e o valor em caixa atual do comércio é de R$29975.0
+✔ O comércio acrescentou em seu catalogo o produto Notebook Acer Linux de categoria Informática. -A quantidade de estoque desse produto atualmente é 5 e o valor em caixa atual do comércio é de R$22475.0
+💲 O comércio vendeu 3 unidades de Notebook Acer Linux de categoria Informática.|A quantidade de estoque desse produto atualmente é: 2 e o valor em caixa atual do comércio é de R$31475.0
+💲 O comércio vendeu 1 unidades de Plants Vs Zombies de categoria Jogos.|A quantidade de estoque desse produto atualmente é: 14 e o valor em caixa atual do comércio é de R$31625.0
+⌦ Foi removido pelo comércio o produto Plants Vs Zombies de categoria Jogos de seu catalogo de vendas.|O produto tinha14e causou um prejuizo de 1050.0 ao comércio

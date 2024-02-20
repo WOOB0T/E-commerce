@@ -1,0 +1,4 @@
+Hotel Transilvânia: Johnny encontra o caminho para casa, 1, 23, Jogos, 30.0, 100.0, PC
+Airdots My Melody, 2, 40, Acessórios, 40.0, 80.0, Bluetooth
+Notebook Dell Gamer, 3, 12, Informática, 2500.0, 5000.0, AMD Ryzen
+Notebook Acer Linux, 5, 2, Informática, 1500.0, 3000.0, Intel Core
